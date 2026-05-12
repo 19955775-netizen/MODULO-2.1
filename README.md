@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF6EC4&center=true&vCenter=true&width=850&lines=Hola%2C+bienvenido+a+mi+repositorio;Aquí+guardo+mis+trabajos+y+proyectos;Aprendiendo+Desarrollo+de+Software;Módulo+2.1+-+Diseño+de+Sistemas+UML" />
+<img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=28&duration=2500&pause=800&color=FF6EC4&center=true&vCenter=true&width=850&lines=Hola%2C+bienvenido+a+mi+repositorio;Aquí+guardo+mis+trabajos+y+proyectos;Aprendiendo+Desarrollo+de+Software;Módulo+2.1+-+Diseño+de+Sistemas+UML" />
 
 <br><br>
 
